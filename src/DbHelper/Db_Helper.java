@@ -59,7 +59,7 @@ public class Db_Helper {
     public void buildIt() throws IOException, ClassNotFoundException, SQLException{
         
         
-        stat2 = null;
+        //stat2 = null;
         //DataBaseConnection.init(args[0]);
     
     try{  // setsup an object of the statment interface by using a method of the Connection object
